@@ -1,4 +1,4 @@
-### Hello there friend!
+### Hello friend!
 
 I'm an instructor 👩‍🏫, developer 💻, and just general coding fanatic 🤓
 
