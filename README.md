@@ -36,7 +36,7 @@ I occassionally throw stuff [📝 here](https://www.codingmadeclear.com/) and [�
 [Polls R Us Demo](https://github.com/natafaye/poll-app-demo)  
 
 ## 🌱 Recent Personal Projects
-[Factorio Mall Planner](https://github.com/natafaye/factorio-mall-planner) - Helps plan a mall factory for the video game Factorio
+[Factorio Mall Planner](https://github.com/natafaye/factorio-mall-planner) - Helps plan a mall factory for the video game Factorio  
 [Imperial Assault Calculator](https://github.com/natafaye/imperial-assault-calculator) - Calculates the damage probabilities for the board game Imperial Assault  
 [Sudoku Helper](https://github.com/natafaye/sudoku-helper) - Calculates the possible number combos for sum-based Killer Sudoku/Kakuro clues  
 
