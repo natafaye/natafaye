@@ -18,14 +18,12 @@ I occassionally throw stuff [📝 here](https://www.codingmadeclear.com/) and [�
 [Week9](https://github.com/natafaye/fesd-week-9) - Debugging & Testing  
 [Week10](https://github.com/natafaye/fesd-week-10) - DOM Manipulation  
 [Week11](https://github.com/natafaye/fesd-week-11) - jQuery  
-[Week12](https://github.com/natafaye/fesd-week-12) - CRUD Project  
-[Week13](https://github.com/natafaye/fesd-week-13) - Introduction to React  
-[Week14](https://github.com/natafaye/fesd-week-14) - Props, State, & Forms  
-[Week15](https://github.com/natafaye/fesd-week-15) - Connecting to a Backend  
-[Week16](https://github.com/natafaye/fesd-week-16) - React Router & React Bootstrap  
-[Week17](https://github.com/natafaye/fesd-week-17) - Redux & Review  
-[Week 17 Redux](https://github.com/natafaye/fesd-week-17-redux)
-(There's a branch for redux and no-redux)  
+[Week12](https://github.com/natafaye/fesd-week-12) - APIs & Fetching 
+[Week13](https://github.com/natafaye/fesd-week-13) - Preparing for React  
+[Week14](https://github.com/natafaye/fesd-week-14) - Intro to React  
+[Week15](https://github.com/natafaye/fesd-week-15) - React State  
+[Week16](https://github.com/natafaye/fesd-week-16) - React Forms  
+[Week17](https://github.com/natafaye/fesd-week-17) - Single Page Applications  
 
 ## 🟪 Nucamp
 [React Week 1](https://github.com/natafaye/nucamp-react-scratch-week-1)  
@@ -36,9 +34,11 @@ I occassionally throw stuff [📝 here](https://www.codingmadeclear.com/) and [�
 [Polls R Us Demo](https://github.com/natafaye/poll-app-demo)  
 
 ## 🌱 Recent Personal Projects
-[Factorio Mall Planner](https://github.com/natafaye/factorio-mall-planner) - Helps plan a mall factory for the video game Factorio  
 [Imperial Assault Calculator](https://github.com/natafaye/imperial-assault-calculator) - Calculates the damage probabilities for the board game Imperial Assault  
+[Slitherlink](https://github.com/natafaye/slitherlink) - Slitherlink puzzle game and medium-skill solver (I would love to implement Jordan Curve Theorem 🤩 but I am a mere mortal)  
+[Factorio Mall Planner](https://github.com/natafaye/factorio-mall-planner) - Helps plan a make-everything factory for the video game Factorio  
 [Sudoku Helper](https://github.com/natafaye/sudoku-helper) - Calculates the possible number combos for sum-based Killer Sudoku/Kakuro clues  
+[Flower Connections](https://github.com/natafaye/flower-connections) - Inspired by the games So Clover and Connections and a desire to see what would happen if I added more sides (currently nursing my wounds from battling dnd kit 🥲)  
 
 ## 💪 Random Challenges
 [Fetch Fundamentals](https://github.com/natafaye/fetch-fundamentals-challenges)  
@@ -49,4 +49,4 @@ I occassionally throw stuff [📝 here](https://www.codingmadeclear.com/) and [�
 [Hangman OOP](https://github.com/natafaye/hangman-practice)  
 
 ## 🚀 Just For Fun
-[Asteroids](https://github.com/natafaye/old-asteroids-game) - The game that got me my first job 10+ years ago
+[Asteroids](https://github.com/natafaye/old-asteroids-game) - The game that got me my first job 15 years ago
